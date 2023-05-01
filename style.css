@@ -38,6 +38,11 @@
     background-size: cover;
     height: 1200px;
 }
+@media (max-width:500px){ 
+    .cc-menu{ 
+        height: 1030px;
+    }
+}
 .btn-order{ 
     color: var(--bs-teal);
     border-color:  var(--bs-teal);
