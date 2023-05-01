@@ -22,7 +22,7 @@
     border-bottom-color:var(--bs-teal);
 }
 .banner,.order-form{ 
-    background: linear-gradient(rgba(0 ,0 ,0 ,0.5) , rgba(0 ,0 ,0, 0.5)) , url('imgs/banniere2.jpg') center center fixed no-repeat;
+    background: linear-gradient(rgba(0 ,0 ,0 ,0.5) , rgba(0 ,0 ,0, 0.5)) , url('imgs/banniere2.jpg') center center  no-repeat;
     background-size: cover;
     height: 800px; 
 }
@@ -34,7 +34,7 @@
     color:#fff;
 }
 .cc-menu{ 
-    background: linear-gradient(rgba(0 ,0 ,0 ,0.5) , rgba(0 ,0 ,0, 0.5)) , url('imgs/banniere5.jpg') center center fixed no-repeat;
+    background: linear-gradient(rgba(0 ,0 ,0 ,0.5) , rgba(0 ,0 ,0, 0.5)) , url('imgs/banniere5.jpg') center center  no-repeat;
     background-size: cover;
     height: 1200px;
 }
